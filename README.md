@@ -14,6 +14,8 @@ Usage
 `$ ./bin/console stat:class-author <email> <project-src>` - counts classes/interfaces/trait
 created by some developer in project.
 
+`$ ./bin/console analize:clsass-analize <fullClassName>` - counts properties and methods in entered Class.
+
 Code style fixer
 ----------------
 
